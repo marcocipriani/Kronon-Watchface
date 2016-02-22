@@ -1,0 +1,25 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Marco Cipriani",
+    "enableMultiJS": true,
+    "longName": "Kronon",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Kronon",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "2ed54fc4-64c1-4db7-b793-67e0a19feded",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
